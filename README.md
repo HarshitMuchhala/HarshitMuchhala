@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/HarshitMuchhala" target="blank">Harshit </a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/HarshitMuchhala" target="blank">Harshit हर्षित </a></h1>
 <h3 align="center">A Software Engineer passionate about JavaScript, MERN Stack, and exploring different tech stacks.</h3>
 
 <p align="left">
