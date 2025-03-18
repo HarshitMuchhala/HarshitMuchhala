@@ -9,7 +9,7 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTUwcGEzajJpOWthN3prNWdsdDE3YjVrOXFvY251eW5zcGNmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOYgPLDnWwYhN99c37/giphy.gif">
 </a>
 <a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTUwcGEzajJpOWthN3prNWdsdDE3YjVrOXFvY251eW5zcGNmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOYgPLDnWwYhN99c37/giphy.gif">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0OTN4NDNraWVpNmFmdzIzbmJoMmZrc2J0NTFoOHV3bHNiczhoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFwUeNGrnwAl3KroMM/giphy.gif">
 </a>
 
 ## 🔥 About Me
