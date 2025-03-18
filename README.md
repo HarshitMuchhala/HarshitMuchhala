@@ -14,7 +14,7 @@
 - 🌱 **Exploring:** Next.js, Angular, TensorFlow.js, and creative web technologies  
 - 🎨 **Interested in:** Building interactive web experiences using Three.js & WebGL  
 - 🤝 **Available for:** Collaboration on open-source & freelance projects  
-- 📖 **Learning:** Cybersecurity, TensorFlow.js, and AI-based frontend interactions  
+- 📖 **Learning:** TensorFlow.js, and AI-based frontend interactions  
 - 💬 **Ask me about:** JavaScript, MERN, Next.js, and API security  
 - 📫 **Reach me at:** [harshitmuchhala@gmail.com](mailto:harshitmuchhala@gmail.com)
 
